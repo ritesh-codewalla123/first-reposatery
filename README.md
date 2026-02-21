@@ -1,2 +1,4 @@
 # first-reposatery
-this is my first repsatery.author is--> Ritesh kumar
+this is my first repsatery
+<br>
+author is--> Ritesh kumar
